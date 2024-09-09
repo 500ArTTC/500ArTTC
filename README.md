@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @500ArTTC
-- 👀 I’m interested in programming in python, basketball, animes, mangas, philosophy, and books
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming in HTML/CSS, basketball, animes, mangas, philosophy, and books
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me antso.rfl41@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I"m 16
